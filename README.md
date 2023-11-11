@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maartenvdmeer
-- 👀 I’m interested in test automation
-- 🌱 I’m currently learning the possibilities of artificial intelligence in test automation
+- 👀 I’m interested in digitization and automation of crop growth
+- 🌱 I’m a plant physiologist developing 3d functional-structural plant models to assist in growth prediction and greenhouse control
 - 💞️ I’m looking to collaborate on projects that involve machine and deep learning
 - 📫 How to reach me: send me a message
 
